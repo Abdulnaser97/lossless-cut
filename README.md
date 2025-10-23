@@ -1,4 +1,18 @@
 <div align="center">
+	<a href="https://go.warp.dev/lossless-cut" target="_blank">
+		<sup>Special thanks to:</sup>
+		<br>
+		<img alt="Warp sponsorship" width="400" src="https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-02.png">
+		<br>
+		<h>Warp, built for coding with multiple AI agents</b>
+		<br>
+		<sup>Available for macOS, Linux and Windows</sup>
+	</a>
+</div>
+
+<br>
+
+<div align="center">
 	<br>
   <p><a href="https://mifi.no/losslesscut/"><img src="src/renderer/src/icon.svg" width="120" alt="LosslessCut" /></a></p>
   <p><b>LosslessCut</b></p>
@@ -127,7 +141,7 @@ For Linux these are some alternatives:
 If you prefer to download the executables manually, this will of course always be free (see also [supported operating systems](./requirements.md)):
 
 - macOS: [Intel](https://github.com/mifi/lossless-cut/releases/latest/download/LosslessCut-mac-x64.dmg) / [Apple Silicon](https://github.com/mifi/lossless-cut/releases/latest/download/LosslessCut-mac-arm64.dmg) DMG (note that PKG does **not** work)
-- Windows: [7zip](https://github.com/mifi/lossless-cut/releases/latest/download/LosslessCut-win-x64.7z) (Windows 7, 8 and 8.1 is [no longer supported](https://github.com/mifi/lossless-cut/discussions/1476) after [v3.50.0](https://github.com/mifi/lossless-cut/releases/tag/v3.50.0))
+- Windows: [7zip](https://github.com/mifi/lossless-cut/releases/latest/download/LosslessCut-win-x64.7z) (Windows 7, 8 and 8.1 is [no longer supported after v3.50.0](./requirements.md))
 - Linux: [x64 tar.bz2](https://github.com/mifi/lossless-cut/releases/latest/download/LosslessCut-linux-x64.tar.bz2) / [x64 AppImage](https://github.com/mifi/lossless-cut/releases/latest/download/LosslessCut-linux-x86_64.AppImage) / [arm64 tar.bz2](https://github.com/mifi/lossless-cut/releases/latest/download/LosslessCut-linux-arm64.tar.bz2) / [Raspberry Pi armv7l](https://github.com/mifi/lossless-cut/releases/latest/download/LosslessCut-linux-armv7l.tar.bz2)
 - [More releases](https://github.com/mifi/lossless-cut/releases) - Note that APPX (Windows) and PKG (macOS) do **not** work)
 - [Latest nightly builds 🧪](https://mifi.no/llc/nightly/)
